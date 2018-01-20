@@ -1,0 +1,10 @@
+(lp1
+S'ketchup'
+p2
+aS'mustard'
+p3
+aS'relish'
+p4
+aS'pickles'
+p5
+a.

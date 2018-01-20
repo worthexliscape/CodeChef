@@ -1,0 +1,1 @@
+for _ in range(input()): print raw_input().count("<>") 
